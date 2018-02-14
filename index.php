@@ -1,5 +1,4 @@
 <?php
-
-echo "Welcome to DevOps Program!!"
+echo "<h2>Welcome to DevOps Program!!</h2>"
 
 ?>
