@@ -1,1 +1,1 @@
-#mynewproject
+mynewproject
